@@ -1,4 +1,4 @@
-package com.example.fakestore.core.presentation
+package com.example.mytaskboard.core.presentation
 
 import androidx.lifecycle.LiveData
 

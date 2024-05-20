@@ -1,7 +1,7 @@
 package com.example.mytaskboard.main
 
-import com.example.fakestore.core.UiUpdate
-import com.example.fakestore.core.presentation.ProvideLiveData
+import com.example.mytaskboard.core.presentation.UiUpdate
+import com.example.mytaskboard.core.presentation.ProvideLiveData
 import com.example.mytaskboard.core.presentation.LiveDataWrapper
 import javax.inject.Inject
 import javax.inject.Singleton

@@ -1,4 +1,4 @@
-package com.example.fakestore.core
+package com.example.mytaskboard.core.presentation
 
 interface UiUpdate<T : Any> {
 
